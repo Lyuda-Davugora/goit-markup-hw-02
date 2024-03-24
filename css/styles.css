@@ -46,12 +46,12 @@ color: #2E2F42;
 color: #404bbf;
 }
 
-.header-menu-item-studio {
+.header-item {
 color: #2e2f42;
 }
 
-.header-menu-item-studio:hover, 
-.header-menu-item-studio:focus {
+.header-item:hover, 
+.header-item:focus {
 color: #404bbf;
 }
 
