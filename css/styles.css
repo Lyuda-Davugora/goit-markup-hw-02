@@ -34,12 +34,7 @@ text-transform: uppercase;
 color: #2e2f42;
 }
 
-.logo-name-stu:hover, 
-.logo-name-stu:focus {
-color: #4d5ae5;
-}
-
-.header-menu-item {
+.header-menu {
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -47,8 +42,8 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 }
 
-.header-menu-item:hover,
-.header-menu-item:focus {
+.header-menu:hover, 
+.header-menu:focus {
 color: #404bbf;
 }
 
