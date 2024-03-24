@@ -99,6 +99,7 @@ background: #4d5ae5;
 .page-button:hover, 
 .page-button:focus  {
 color: #404BBF;
+background-color: #404BBF;
 }
 
 /* section-2 */
