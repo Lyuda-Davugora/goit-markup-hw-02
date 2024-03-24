@@ -52,7 +52,7 @@ color: #2e2f42;
 
 .header-menu-item-studio:hover, 
 .header-menu-item-studio:focus {
-color: #404bbf
+color: #404bbf;
 }
 
 .header-menu-item-portfolio {
@@ -61,7 +61,7 @@ color: #2e2f42;
 
 .header-menu-item-portfolio:hover, 
 .header-menu-item-portfolio:focus {
-color: #404bbf
+color: #404bbf;
 }
 
 .header-menu-item-contakt {
@@ -70,10 +70,10 @@ color: #2e2f42;
 
 .header-menu-item-contakt:hover, 
 .header-menu-item-contakt:focus {
-color: #404bbf
+color: #404bbf;
 }
 
-.header-address {
+address {
 font-style: normal;
 }
 
