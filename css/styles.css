@@ -55,6 +55,24 @@ color: #2e2f42;
 color: #404bbf
 }
 
+.header-menu-item-portfolio {
+color: #2e2f42;
+}
+
+.header-menu-item-portfolio:hover, 
+.header-menu-item-portfolio:focus {
+color: #404bbf
+}
+
+.header-menu-item-contakt {
+color: #2e2f42;
+}
+
+.header-menu-item-contakt:hover, 
+.header-menu-item-contakt:focus {
+color: #404bbf
+}
+
 .header-address {
 font-style: normal;
 }
