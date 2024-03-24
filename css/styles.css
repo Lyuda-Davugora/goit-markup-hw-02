@@ -80,6 +80,7 @@ background: #2e2f42;
 .page-title {
 font-weight: 700;
 font-size: 56px;
+text-align: center;
 line-height: 1.07;
 letter-spacing: 0.02em;
 color: #fff;
@@ -97,7 +98,7 @@ background: #4d5ae5;
 
 .page-button:hover, 
 .page-button:focus  {
-color: #2e2f42;
+color: #404BBF;
 }
 
 /* section-2 */
